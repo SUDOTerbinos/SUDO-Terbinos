@@ -1,3 +1,6 @@
+<img align="center" width="850" src="https://camo.githubusercontent.com/a891d7d5917bebbdfcedb02348ab06be64822b69e8d1cfdad45e6dc5279f6ca7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966"  />
+
+
 <h1 align="center">Hi 👋, I'm Terbinos</h1>
 <h3 align="center">I am web developer</h3>
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
@@ -11,7 +14,7 @@
 
 ###
 
-<img align="right" height="150" src="https://medium.com/@avijain1001/hacker-culture-community-of-diligent-hackers-752cd894e9a4"  />
+<img align="right" height="150" src="https://qph.cf2.quoracdn.net/main-qimg-97eca42cd2b74c837f78c91ae106419e"  />
 
 ###
 
